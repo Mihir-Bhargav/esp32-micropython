@@ -1,5 +1,9 @@
 # ESP32 MicroPython Financial & IoT Experiments
 
+![ESP32 breadboard: speaker, IR sensor and LED](docs/images/breadboard-setup.jpg)
+
+![OLED display showing a live AAPL price and trend](docs/images/oled-display.jpg)
+
 A collection of MicroPython projects built for the ESP32, tracking the journey from fundamental hardware control (buttons, switches, buzzers) to interactive, API-driven financial monitoring tools. 
 
 Incoming projects; Several ML projects driven by the ESP32S3 using CNNs, and other image classifers. Later; running other limited AI/ML models. Finance applications for ML. Blockchain technology in python + nfc tag with electronics to complete 1 entire transaction with my own cryptocurrency.
